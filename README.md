@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Alex!&desc=Welcome%20to%20my%20GitHub%20Profile!&fontAlign=50&descAlign=68&fontAlignY=43)
 
-
 ## My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,figma)](https://skillicons.dev)
 
