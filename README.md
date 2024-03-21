@@ -65,11 +65,12 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&theme=tokyonight&layout=compact)
+
 
 </td></tr></table>  
 
