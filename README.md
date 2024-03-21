@@ -25,13 +25,16 @@
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
-
+</div>
 </td><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&theme=tokyonight&layout=compact)
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&theme=tokyonight&layout=compact)
+</div>
 
 </td></tr></table>  
 
