@@ -28,7 +28,7 @@
 <table><tr><td valign="top" width="50%">
 <div align="center">
 
-![Anurag's GitHub stats](https://github-stats-exended.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
 </div>
 </td><td valign="top" width="50%">
 
