@@ -24,19 +24,17 @@
 <br/>  
 
 ## Github Stats  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WhoMustNotBeNamed&theme=dark" alt="GitHub Streak" /></a>
 
-<!--
 <table><tr><td valign="top" width="50%">
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-stats-exended.vercel.app/api?username=WhoMustNotBeNamed&show_icons=true&theme=tokyonight)
 </div>
 </td><td valign="top" width="50%">
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&theme=tokyonight&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WhoMustNotBeNamed&theme=tokyonight&layout=compact)
 </div>
 
 </td></tr></table>  
