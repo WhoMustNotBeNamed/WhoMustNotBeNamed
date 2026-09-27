@@ -24,6 +24,9 @@
 <br/>  
 
 ## Github Stats  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WhoMustNotBeNamed&theme=dark" alt="GitHub Streak" /></a>
+
+<!--
 <table><tr><td valign="top" width="50%">
 <div align="center">
 
